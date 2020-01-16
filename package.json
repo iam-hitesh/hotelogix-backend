@@ -1,0 +1,19 @@
+{
+  "name": "hotelogix-backend",
+  "version": "1.0.0",
+  "description": "Services for hotelogix applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-hitesh/hotelogix-backend.git"
+  },
+  "author": "iam-hitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-hitesh/hotelogix-backend/issues"
+  },
+  "homepage": "https://github.com/iam-hitesh/hotelogix-backend#readme"
+}

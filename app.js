@@ -1,6 +1,6 @@
 const express = require('express');
 const config = require('./config');
-const db = require('./database');
+const db = require('./config/database');
 
 // //require chalk module to give colors to console text
 // const chalk = require('chalk');
